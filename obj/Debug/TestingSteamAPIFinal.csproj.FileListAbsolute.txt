@@ -1,0 +1,12 @@
+c:\users\toaster\documents\visual studio 2015\Projects\TestingSteamAPIFinal\TestingSteamAPIFinal\bin\Debug\TestingSteamAPIFinal.exe.config
+c:\users\toaster\documents\visual studio 2015\Projects\TestingSteamAPIFinal\TestingSteamAPIFinal\bin\Debug\TestingSteamAPIFinal.exe
+c:\users\toaster\documents\visual studio 2015\Projects\TestingSteamAPIFinal\TestingSteamAPIFinal\bin\Debug\TestingSteamAPIFinal.pdb
+c:\users\toaster\documents\visual studio 2015\Projects\TestingSteamAPIFinal\TestingSteamAPIFinal\bin\Debug\Newtonsoft.Json.dll
+c:\users\toaster\documents\visual studio 2015\Projects\TestingSteamAPIFinal\TestingSteamAPIFinal\bin\Debug\Newtonsoft.Json.pdb
+c:\users\toaster\documents\visual studio 2015\Projects\TestingSteamAPIFinal\TestingSteamAPIFinal\bin\Debug\Newtonsoft.Json.xml
+c:\users\toaster\documents\visual studio 2015\Projects\TestingSteamAPIFinal\TestingSteamAPIFinal\obj\Debug\TestingSteamAPIFinal.csprojResolveAssemblyReference.cache
+c:\users\toaster\documents\visual studio 2015\Projects\TestingSteamAPIFinal\TestingSteamAPIFinal\obj\Debug\TestingSteamAPIFinal.Form1.resources
+c:\users\toaster\documents\visual studio 2015\Projects\TestingSteamAPIFinal\TestingSteamAPIFinal\obj\Debug\TestingSteamAPIFinal.Properties.Resources.resources
+c:\users\toaster\documents\visual studio 2015\Projects\TestingSteamAPIFinal\TestingSteamAPIFinal\obj\Debug\TestingSteamAPIFinal.csproj.GenerateResource.Cache
+c:\users\toaster\documents\visual studio 2015\Projects\TestingSteamAPIFinal\TestingSteamAPIFinal\obj\Debug\TestingSteamAPIFinal.exe
+c:\users\toaster\documents\visual studio 2015\Projects\TestingSteamAPIFinal\TestingSteamAPIFinal\obj\Debug\TestingSteamAPIFinal.pdb
